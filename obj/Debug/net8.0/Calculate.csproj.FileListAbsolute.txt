@@ -1,0 +1,14 @@
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\bin\Debug\net8.0\Calculate.exe
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\bin\Debug\net8.0\Calculate.deps.json
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\bin\Debug\net8.0\Calculate.runtimeconfig.json
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\bin\Debug\net8.0\Calculate.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\bin\Debug\net8.0\Calculate.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\Calculate.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\Calculate.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\Calculate.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\refint\Calculate.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\Calculate.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\Calculate.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\Calculate\obj\Debug\net8.0\ref\Calculate.dll
